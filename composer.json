@@ -1,5 +1,5 @@
 {
-    "name": "aurabox/orthancphp",
+    "name": "aurabx/orthancphp",
     "description": "A PHP client for use with the Orthanc REST API",
     "keywords": [
         "openapitools",
